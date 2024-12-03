@@ -25,3 +25,5 @@
 - 📫 How to reach me: [Email](mailto:automatedbygerman@gmail.com?subject=Github%20%3C%20YOUR%20SUBJECT%3E%20), [LinkedIn](https://www.linkedin.com/in/germanpaul12)
 
 <p align="center"> Looking forward to collaborate with you! </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GermanPaul12)](https://github.com/anuraghazra/github-readme-stats)
