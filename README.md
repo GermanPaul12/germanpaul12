@@ -26,4 +26,4 @@
 
 <p align="center"> Looking forward to collaborate with you! </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GermanPaul12)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GermanPaul12&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GermanPaul12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
